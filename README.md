@@ -12,4 +12,4 @@ for I2C communication with RES=1, DC=CS=0. All seven pins are used in SPI mode.<
 <h4> Interfacing 1.3" OLED with NodeMCU ESP8266 in I2C Mode </h4>
 The 1.3" 128x64 OLED uses SH1106 driver IC for handling the pixels. Commands used with SH1106 are different from that of the commands used with SSD1306. Also the constructors used in the software are different. The figure given below shows interfacing OLED with NodeMCU ESP8266 in I2C mode:
 <p align ="center"> 
-  <img src="" width = "250" height = "200/>
+  <img src="https://github.com/DrKRR/esp8266_1.3inchOLED_SPI_I2C/blob/main/20211206_204048.jpg" width = "250" height = "200/> <p/>
