@@ -9,3 +9,4 @@ In this project I am going to present hardware software to interface 1.3"OLED wi
  </p><br/>
 It is clear from the above figure that, the OLED has seven pins: GND, Vcc, CLK, MOSI, RES, DC, CS. In the I2C mode, the first four pins are used 
 for I2C communication with RES=1, DC=CS=0. All seven pins are used in SPI mode.
+### Interfacing 1.3" OLED with NodeMCU ESp8266 in I2C Mode
