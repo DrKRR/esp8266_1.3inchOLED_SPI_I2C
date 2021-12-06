@@ -8,4 +8,4 @@ In this project I am going to present hardware software to interface 1.3"OLED wi
   <img src="https://github.com/DrKRR/esp8266_1.3inchOLED_SPI_I2C/blob/main/1.3-Inch-128%C3%9764-OLED-Display-Module-with-SPI-Serial-Interface-7-Pin-back_1.jpg".jpg" width = "250" height = "200"/>
  </p><br/>
 It is clear from the above figure that, the OLED has seven pins: GND, Vcc, CLK, MOSI, RES, DC, CS. In the I2C mode, the first four pins are used 
-for I2C communication with RES=1, DC=CS=0.
+for I2C communication with RES=1, DC=CS=0. All seven pins are used in SPI mode.
