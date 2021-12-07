@@ -5,7 +5,9 @@ This repository describes a detailed approach (in the form of hardware and softw
 In this project I am going to present hardware software to interface 1.3"OLED with NodeMCU ESP8266 in both SPI and I2C modes. In an attempt to do this, software is developed to display different shapes and graphics on OLED. The front and back sides of OLED are shown below:
 <p align ="center"> 
   <img src="https://github.com/DrKRR/esp8266_1.3inchOLED_SPI_I2C/blob/main/s-l300%20(1).jpg" width="250" height="250"> 
-      <img src="https://github.com/DrKRR/esp8266_1.3inchOLED_SPI_I2C/blob/main/1.3-Inch-128%C3%9764-OLED-Display-BackView.jpg" width="250" height="250"></p> 
+      <img src="https://github.com/DrKRR/esp8266_1.3inchOLED_SPI_I2C/blob/main/1.3-Inch-128%C3%9764-OLED-Display-BackView.jpg" width="250" height="250">
+          <img src="https://github.com/DrKRR/esp8266_1.3inchOLED_SPI_I2C/blob/main/1.3inch_I2C.jpg" width="200" height="200"> 
+            </p> 
       <br/>
 It is clear from the above figure that, the OLED has seven pins: GND, Vcc, CLK, MOSI, RES, DC, CS. In the I2C mode, the first four pins are used for I2C communication. Neverthless, other pins have to be either HI or LO. Thus, for I2C make RES=1, DC=CS=0. All seven pins are used in SPI mode. <b>Further, by visual inspection of the backplane, one can see that the board comes with a 4k7 resistor connected across the SPI bridge, and the R8 bridge in OPEN condition.<b/> <i>For I2C, (i). the 4k7 resistor has to be removed from SPI bridge and soldered across the I2C bridge, (ii). the R8 resistor position (bridge) shorted </i>                                                                 
 <h4> Interfacing 1.3" OLED with NodeMCU ESP8266 in I2C Mode </h4>
