@@ -15,3 +15,4 @@ The 1.3" 128x64 OLED uses SH1106 driver IC for handling the pixels. Commands use
 <p align="center">
 <img src="https://github.com/DrKRR/esp8266_1.3inchOLED_SPI_I2C/blob/main/SH1106_I2C.jpg" width=300" height="350"> </p>
 It is 
+                                                                                                                
