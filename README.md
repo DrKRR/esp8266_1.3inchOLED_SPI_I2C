@@ -31,6 +31,6 @@ All programs are developed in Arduino <b>I</b>ntegrated <b>D</b>evelopment <b>E<
 <p align = "center"> [(https://github.com/olikraus/u8g2)] </p>
 Method of downloading and adding it to the Arduino path, choosing of the board etc., are not explained here, because the procedure is well explained in different blogs and websites. Here, I am considering examples for which algorithms and program listings are given.
 When we consider I2C, its address is important. One among the following websites can be used to obtain the I2C address:
-<p align = "center">[(https://github.com/rene-mt/esp8266-oled-sh1106)]</p> 
-<p align = "center">[(https://github.com/rene-mt/esp8266-oled-sh1106)]</p>
+<p align = "center">[(https://github.com/gryzli133/ESP8266-I2C-Scanner-with-OLED-SH1106-Display/blob/master/I2C_Scanner.ino)]</p> 
+<p align = "center">[(https://www.instructables.com/ESP8266-I2C-PORT-and-Address-Scanner/)]</p>
 I have used the second website to obtain the I2C address of the 1.3" OLED used in the present work.
