@@ -31,5 +31,5 @@ All programs are developed in Arduino <b>I</b>ntegrated <b>D</b>evelopment <b>E<
 <p align = "center"> [(https://github.com/olikraus/u8g2)] </p>
 Method of downloading and adding it to the Arduino path, choosing of the board etc., are not explained here, because the procedure is well explained in different blogs and websites. Here, I am considering examples for which algorithms and program listings are given.
 When we consider I2C, its address is important. One among the following websites can be used to obtain the I2C address:
-<p align = "center">[(https://github.com/rene-mt/esp8266-oled-sh1106)]</p> </br>
+<p align = "center">[(https://github.com/rene-mt/esp8266-oled-sh1106)]</p> 
 <p align = "center">[(https://github.com/rene-mt/esp8266-oled-sh1106)]</p>
