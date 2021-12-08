@@ -18,6 +18,6 @@ The 1.3" 128x64 OLED uses SH1106 driver IC for handling the pixels. Commands use
 <img src="https://github.com/DrKRR/esp8266_1.3inchOLED_SPI_I2C/blob/main/SH1106_I2C.jpg" width=300" height="350"> 
  <img src="https://github.com/DrKRR/esp8266_1.3inchOLED_SPI_I2C/blob/main/SH1106_I2C_1.jpg" width=300" height="350">                                   
   <img src="https://github.com/DrKRR/esp8266_1.3inchOLED_SPI_I2C/blob/main/SH1106_I2C_2.jpg" width=300" height="350">                                                                          </p>
-It is clear from the above figure that the SCL pin of NodeMCU is connected to CLK of OLED and the SDA pin of NodeMCU to MOSI of the OLED.
-                                                                                                                <i> Pull-up resistors (4k7 or 3k3) are used on both pins.</i>
-                                                                                                                
+It is clear from the above first figure that the SCL pin of NodeMCU is connected to CLK of OLED and the SDA pin of NodeMCU to MOSI of the OLED.
+                                                                                                                <i> Pull-up resistors (4k7 or 3k3) are used on both of these pins.</i>
+After successful execution, the program is dumped on to NodeMCU, and the system is powered by power bank, which can be seen in the third figure above. The second figure shows the display of ASCII characters, and the third one shows the display of graphics on the 1.3" OLED in I2C mode.                                                                                                                
