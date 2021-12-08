@@ -34,4 +34,4 @@ When we consider I2C, its address is important. One among the following websites
 <p align = "center">[(https://github.com/gryzli133/ESP8266-I2C-Scanner-with-OLED-SH1106-Display/blob/master/I2C_Scanner.ino)]<p/> 
 <p align = "center">[(https://www.instructables.com/ESP8266-I2C-PORT-and-Address-Scanner/)]<p/>
 I have used the second website to obtain the I2C address of the 1.3" OLED used in the present work. The Arduino program is included <a href="https://github.com/DrKRR/esp8266_1.3inchOLED_SPI_I2C/blob/main/1.3inch_OLED_I2C_test.ino"> here </a>
-The output on the Serial Monitor is available here.
+The output on the Serial Monitor is available <ahref="">here.
