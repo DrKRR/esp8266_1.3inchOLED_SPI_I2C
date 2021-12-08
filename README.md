@@ -33,4 +33,4 @@ Method of downloading and adding it to the Arduino path, choosing of the board e
 When we consider I2C, its address is important. One among the following websites can be used to obtain the I2C address:
 <p align = "center">[(https://github.com/rene-mt/esp8266-oled-sh1106)]</p> 
 <p align = "center">[(https://github.com/rene-mt/esp8266-oled-sh1106)]</p>
-I have used the second website to obtain the I2C address of the 1.3" OLED used in the present work.
+I have used the second website to determine the I2C address of the 1.3" OLED used in the present work.
