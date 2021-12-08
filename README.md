@@ -27,3 +27,4 @@ After successful execution, the program is dumped on to NodeMCU, and the system 
  <h7></br>
   <b>SOFTWARE:></b>
              </h7></br>
+All programs are developed in Arduino environment. For the current work, u8g2 library is installed in the program execution path. Installation u8g2 library is accomplished from the following:
