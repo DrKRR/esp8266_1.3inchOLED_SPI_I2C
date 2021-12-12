@@ -48,3 +48,6 @@ I will now turn my attention towards description on interfacing 1.3" OLED module
   <b>HARDWARE:></b>
              </h7></br>
 The following circuit shows the interfacing OLED display with NodeMCU ESP8266 in SPI mode. 
+<p align="center">
+<img src="" width=300" height="350"> 
+                                                                                                                </p>
