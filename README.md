@@ -35,7 +35,7 @@ When we consider I2C, its address is important. One among the following websites
 <p align = "center">[(https://www.instructables.com/ESP8266-I2C-PORT-and-Address-Scanner/)]<p/>
 I have used the second website to obtain the I2C address of the 1.3" OLED used in the present work. The Arduino program is included <a href="https://github.com/DrKRR/esp8266_1.3inchOLED_SPI_I2C/blob/main/1.3inch_OLED_I2C_test.ino"> here </a>
 The output on the Serial Monitor is available <a href="https://github.com/DrKRR/esp8266_1.3inchOLED_SPI_I2C/blob/main/I2C_Serial_Monitor_Output.docx"> here </a>
-<i>The I2C address for my display is 0x3C.</i> But, for certain displays, it is mentioned that DC>>GND-->I2C addrees=0x3D. One should test and ascertain the I2C address before its use. The following pictures shows the I2C address displayed on OLED and a graphic output using I2C interface.
+<i>The I2C address for my display is 0x3C.</i> But, for certain displays, it is mentioned that DC>>GND-->I2C addrees=0x3D. One should test and ascertain the I2C address before its use. The following pictures show the I2C address displayed on OLED and a graphic output using I2C interface.
 <p align="center">
 <img src="https://github.com/DrKRR/esp8266_1.3inchOLED_SPI_I2C/blob/main/1.3inch_I2CDisp.jpg" width="400" height="250"> 
  <img src="https://github.com/DrKRR/esp8266_1.3inchOLED_SPI_I2C/blob/main/U8g2_logo_I2C.jpg" width="400" height="250"                                                                                                                    <p/>
