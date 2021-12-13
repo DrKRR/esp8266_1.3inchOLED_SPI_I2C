@@ -39,14 +39,16 @@ The output on the Serial Monitor is available <a href="https://github.com/DrKRR/
 <p align="center">
 <img src="https://github.com/DrKRR/esp8266_1.3inchOLED_SPI_I2C/blob/main/1.3inch_I2CDisp.jpg" width="400" height="250"> 
  <img src="https://github.com/DrKRR/esp8266_1.3inchOLED_SPI_I2C/blob/main/U8g2_logo_I2C.jpg" width="400" height="250"                                                                                                                    </p> </br>
- <p> I will now turn my attention towards description on interfacing 1.3" OLED module (the same above module) in SPI mode
+ <p> I will now turn my attention towards description on interfacing 1.3" OLED module (the same above module) in SPI mode</p>
 <h3>
   Interfacing 1.3" OLED module with NodeMCU ESP8266 in SPI Mode:
   </h3>
  <h7>
   <b>HARDWARE:></b>
-             </h7></br>
+             </h7>
+             
 The following circuit shows the interfacing OLED display with NodeMCU ESP8266 in SPI mode. 
-</br>   <p align="center">
+</br>   
+<p align="center">
      <img src="https://github.com/DrKRR/esp8266_1.3inchOLED_SPI_I2C/blob/main/1.3_inch_OLED_SPI.jpg" width=350" height="400"> 
                  </p>
