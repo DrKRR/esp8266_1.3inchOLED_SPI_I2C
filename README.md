@@ -23,8 +23,8 @@ The 1.3" 128x64 OLED uses SH1106 driver IC for handling the pixels. Commands use
   <img src="https://github.com/DrKRR/esp8266_1.3inchOLED_SPI_I2C/blob/main/SH1106_I2C_2.jpg" width=300" height="350">                                                                          <p/>
 It is clear from the above first figure that the SCL pin of NodeMCU is connected to CLK of OLED and the SDA pin of NodeMCU to MOSI of the OLED.
                                                                                                                 <i> Pull-up resistors (4k7 or 3k3) are used on both of these pins.</i>
-After successful execution, the program is dumped on to NodeMCU, and the system is powered by power bank, which can be seen in the third figure above. The second figure shows the display of ASCII characters, and the third one shows the display of graphics on the 1.3" OLED in I2C mode, with SH1106 driver.                                                                                                                
- <h7></br>
+After successful execution, the program is dumped on to NodeMCU, and the system is powered by power bank, which can be seen in the third figure above. The second figure shows the display of ASCII characters, and the third one shows the display of graphics on the 1.3" OLED in I2C mode, with SH1106 driver. </br>                                                                                                               
+ <h7>
   <b>SOFTWARE:></b>
              </h7></br>
 All programs are developed in Arduino <b>I</b>ntegrated <b>D</b>evelopment <b>E</b>nvironment (<b>IDE</b>). For the current work, <i>u8g2</i> library is installed in the program execution path. It's indeed a great library! Installation of u8g2 library is accomplished from the following website:
