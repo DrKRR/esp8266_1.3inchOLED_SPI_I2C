@@ -47,7 +47,6 @@ The output on the Serial Monitor is available <a href="https://github.com/DrKRR/
   <b>HARDWARE:></b>
              </h7></br>
 The following circuit shows the interfacing OLED display with NodeMCU ESP8266 in SPI mode. 
-</br>
-   <p align="center">
+</br>   <p align="center">
      <img src="https://github.com/DrKRR/esp8266_1.3inchOLED_SPI_I2C/blob/main/1.3_inch_OLED_SPI.jpg" width=350" height="400"> 
                  </p>
