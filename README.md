@@ -51,4 +51,6 @@ The following circuit shows the interfacing OLED display with NodeMCU ESP8266 in
 </br>   
 <p align="center">
      <img src="https://github.com/DrKRR/esp8266_1.3inchOLED_SPI_I2C/blob/main/1.3_inch_OLED_SPI.jpg" width=350" height="400"> 
+        <img src="https://github.com/DrKRR/esp8266_1.3inchOLED_SPI_I2C/blob/main/ESP8266_SPI_1.jpg" width=350" height="400">
+           <img src="" width=350" height="400">
                  </p>
